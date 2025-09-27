@@ -138,8 +138,8 @@ whitetown.html
 ~~~
 
 
-## OUTPUT:
-![alt text](map.png)
+## Output:
+![alt text](<Screenshot (36).png>) OUTPUT:
 ![alt text](lake.png)
 ![alt text](temple.png)
 ![alt text](temple.png)
