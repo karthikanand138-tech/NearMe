@@ -137,9 +137,9 @@ whitetown.html
 
 ~~~
 
-
 ## Output:
-![alt text](<Screenshot (36).png>) OUTPUT:
+
+![alt text](<Screenshot (31).png>)
 ![alt text](lake.png)
 ![alt text](temple.png)
 ![alt text](temple.png)
